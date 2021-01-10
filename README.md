@@ -1,7 +1,7 @@
 # wrapper electron
+how to start: npm start
 
-
-# how to start
-npm install
-npm start
-then it should open electron window. this is its source code so its not the exe yet because its alpha stage testing.
+# How to compile 
+get electron packager then do 
+electronpackager . 
+on the directory
