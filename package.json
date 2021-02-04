@@ -13,7 +13,7 @@
   "author": "2Epik4u",
   "license": "UNLICENSED",
   "devDependencies": {
-    "electron": "^11.0.3",
+    "electron": "^11.1.0",
     "electron-packager": "^15.1.0",
     "electron-winstaller": "^4.0.1"
   },
